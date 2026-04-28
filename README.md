@@ -181,9 +181,10 @@ npm run dev
 ## 👨‍💻 Contributors
 
 * Lokendra Sinha
-* Manishkumar Ambule
 * Raj Khatri
 * Satwik Shirpurwar
+* Manishkumar Ambule
+
 
 ---
 
